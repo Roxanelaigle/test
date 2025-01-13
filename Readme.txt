@@ -1,5 +1,6 @@
 Hello 
 
 ca va ? 
-
-je resous le merge conflict
+je fais des tests 
+encore des tests 
+toujours des tests
